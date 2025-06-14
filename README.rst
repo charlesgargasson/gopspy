@@ -3,7 +3,7 @@ goPspy
 ######
 
 | Same concept as pspy but for windows, using Golang.
-| For files and pipes monitoring : https://gitlab.com/charles.gargasson/gofspy
+| For files and pipes monitoring : https://github.com/charlesgargasson/gofspy
 |
 | Use cases
 
